@@ -34,3 +34,6 @@ I copied a file name Simps.jpg and then I move it to the cloud
 ## Task 4: Remove files and then the bucket
 
 To practice using CLI, use _gsutil_ tool for it.
+To remove the file Simps.jpg
+
+gsutil rm gs://as-you-want/Simps.jpg
