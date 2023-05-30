@@ -37,3 +37,5 @@ To practice using CLI, use _gsutil_ tool for it.
 To remove the file Simps.jpg
 
 gsutil rm gs://as-you-want/Simps.jpg
+
+The I copied two files and try to remove all files and remove the bucket at the same time
