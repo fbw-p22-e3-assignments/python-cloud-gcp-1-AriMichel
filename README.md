@@ -29,7 +29,7 @@ Now make the same as in **Task 2**, but using _gsutil_ tool.
 
 > If you don't have _gsutil_ installed, follow the steps [here](https://cloud.google.com/storage/docs/gsutil_install).
 
-#
+# gsutil mv ./Simps.jpg gs://as-you-want
 
 ## Task 4: Remove files and then the bucket
 
