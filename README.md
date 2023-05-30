@@ -21,7 +21,7 @@ Follow the requirements:
 Simply use GCP Console and upload **any type of file** into your newly created bucket.
 Also, **create a folder** and **upload any file** into it.
 
-#
+# Done
 
 ## Task 3: Upload a file into your bucket using _gsutil_
 
